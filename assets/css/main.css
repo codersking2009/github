@@ -1,0 +1,50 @@
+.img{
+    width: 150px;
+    height: 150px;
+    
+}
+.imgdiv{
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    border: 1px solid black;
+}
+.input{
+    width: 500px;
+    height: 30px;
+    background-color: rgb(183, 255, 255);
+    border: 1px solid black;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.btn{
+    width: 150px;
+    height: 30px;
+    border: 1px solid black;
+    font-size: 17px;
+}
+.h2{
+    color: red;
+}
+.h12{
+    /* position: absolute;
+    margin-top: -53px;
+    margin-left: 110px; */
+    color: rgb(133, 132, 132);
+}
+.h4{
+position: absolute;
+margin-top: -170px;
+margin-left: 180px;
+color: rgb(87, 87, 87);
+}
+.h42{
+    position: absolute;
+    margin-top: -160px;
+margin-left: 180px;
+color: rgb(87, 87, 87);
+}
+.git{
+    font-size: 50px;
+    color: rgb(87, 87, 87);
+}
